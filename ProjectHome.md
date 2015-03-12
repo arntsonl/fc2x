@@ -1,0 +1,1 @@
+FC2X is a completely fresh port of the great emulator FCEUX http://fceux.com/web/home.html  The port is based off of the version 2.1.5 SVN release candidate found on the FCEUX site, and all modifications have been done in a way to keep the integrity of the original FCEUX emulator intact.
